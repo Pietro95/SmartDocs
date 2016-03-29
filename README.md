@@ -1,7 +1,7 @@
 # SmartDocs
 Hackaton - ICT Days 2016
 
-**SmartDocs** (Smart doctors) is the ICT Days 2016 hackaton's winner project
+**SmartDocs** (Smart doctors) is the ICT Days 2016 hackaton's winner project!
 
 ## Project overview
 <a href="http://prezi.com/fm944mb3gyl2/?utm_campaign=share&utm_medium=copy"><img src="/images/prezi.png" width="350" alt="Prezi"/></a></br>
